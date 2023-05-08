@@ -1,8 +1,8 @@
 package in.olc.logicbuilding
 package in.olc.logicbuilding
 
-import java.util.Scanner
-
+//import java.util.Scanner
+/*
 object TwoDigitSpclNum extends App{
   def split(num:Int,digitList:List[Int]=Nil):List[Int]= {
     if num==0 then digitList
@@ -30,3 +30,4 @@ object TwoDigitSpclNum extends App{
 
 
 }
+*/
